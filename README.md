@@ -1,6 +1,5 @@
 
-![landscape](https://images.pexels.com/photos/414171/pexels-photo-414171.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
-
+<img src="https://images.pexels.com/photos/414171/pexels-photo-414171.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" height="125" width="420">
 <!--
 **Arthuzuga/Arthuzuga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
